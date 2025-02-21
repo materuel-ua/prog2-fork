@@ -12,7 +12,7 @@ class Curso:
         return f'{self.codigo} {self.nombre}: {self.descripcion}.'
     
     def __repr__(self) -> str:
-        return f'{type(self)}(nombre = "{self.nombre}", codigo = "{self.codigo}", descripcion = "{self.descripcion}")'
+        return f'{type(self).__name__}(nombre = "{self.nombre}", codigo = "{self.codigo}", descripcion = "{self.descripcion}")'
     
     def mostrar_detalles(self) -> str:
 
