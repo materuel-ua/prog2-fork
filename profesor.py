@@ -6,3 +6,6 @@ class Profesor:
         self.especialidad = especialidad
         self.cursos_asignados = cursos_asignados
         Profesor.total_profesores += 1  # Aumenta el contador cada vez que se crea un profesor
+
+    def asignar_curso(self):
+        
