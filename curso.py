@@ -6,3 +6,16 @@ class Curso:
         self.codigo = codigo
         self.descripcion = descripcion
         Curso.total_cursos += 1  # Aumenta el contador cada vez que se crea un curso
+
+    def mostrar_detalles(self):
+        pass
+    def actualizar_descripcion(self):
+        pass
+    def __repr__(self):
+        pass
+    def desde_tuplas(cls,tupla):
+        pass
+    def es_curso_abierto(self):
+        pass
+    def __str__(self):
+        pass
