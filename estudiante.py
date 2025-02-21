@@ -25,4 +25,4 @@ class Estudiante:
         if nombre.edad>17:
             print('Es mayor de edad')
         else:
-            print('No es mayor de edad')
+            print('es menor')
