@@ -3,10 +3,10 @@
 
 ## Autores
 
-* (Coordinador) [NNikolas Kaplan](https://github.com/alumno1)
-* [Patricia Pérez Ferre](https://github.com/alumno2)
-* [Mohamed Arahouali Khallada](https://github.com/alumno3)
-* [Adrián López Gallado](https://github.com/alumno4)
+* (Coordinador) [NNikolas Kaplan](https://github.com/nmk8)
+* [Patricia Pérez Ferre](https://github.com/ppf30)
+* [Mohamed Arahouali Khallada](https://github.com/mak5)
+* [Adrián López Gallado](https://github.com/alg204)
 
 
 ## Profesor
